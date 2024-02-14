@@ -1,0 +1,14 @@
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\bin\Debug\net8.0\Tassk1.exe
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\bin\Debug\net8.0\Tassk1.deps.json
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\bin\Debug\net8.0\Tassk1.runtimeconfig.json
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\bin\Debug\net8.0\Tassk1.dll
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\bin\Debug\net8.0\Tassk1.pdb
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.AssemblyInfoInputs.cache
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.AssemblyInfo.cs
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.csproj.CoreCompileInputs.cache
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.dll
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\refint\Tassk1.dll
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.pdb
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\Tassk1.genruntimeconfig.cache
+C:\Users\92139\OneDrive\Desktop\Языки программирования\C#\Lesson1\Tassk1\obj\Debug\net8.0\ref\Tassk1.dll
